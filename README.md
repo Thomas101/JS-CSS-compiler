@@ -38,7 +38,8 @@ A manifest is just a file containing valid JSON. It describes how to compile you
         {"from" : "style/textures/",
         "to"    : "../compiled/textures/"}
     ]
-}```
+}
+```
 
 ### Explaination
 
