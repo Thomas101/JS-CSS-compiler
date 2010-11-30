@@ -15,9 +15,7 @@ A manifest is just a file containing valid JSON. It describes how to compile you
 
 ### Example
 
-```js
-var a = '';
-{
+```js {
     "project": "my_project",
     "js": {
         "dirs"          : ["js/"],
