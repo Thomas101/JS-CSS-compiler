@@ -16,7 +16,7 @@ A manifest is just a file containing valid JSON. It describes how to compile you
 ### Example
 
 ```js
-
+var a = '';
 {
     "project": "my_project",
     "js": {
@@ -40,7 +40,6 @@ A manifest is just a file containing valid JSON. It describes how to compile you
         "to"    : "../compiled/textures/"}
     ]
 }
-
 ```
 
 ### Explaination
